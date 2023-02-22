@@ -33,6 +33,8 @@ Desktop: 992px até 1200px
         color: black;
     }
 
+    
+
     img#phone {display:none;}
     img#tablet {display: none;}
     img#print {display: block;}
