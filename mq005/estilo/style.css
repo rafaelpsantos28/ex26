@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+
+body, html {
+    background-color: rgba(247, 240, 240, 0.904);
+}
+main {
+    min-width: 300px;
+    max-width: 500px;
+    margin: auto;
+    background-color: white;
+}
+
