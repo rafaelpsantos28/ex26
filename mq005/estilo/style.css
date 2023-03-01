@@ -16,12 +16,28 @@ header {
 header > h1 {
     padding: 10px;
     text-align: center;
+
+}
+i#burguer {
+    background-color: rgba(20, 19, 19, 0.986);
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+i#burguer:hover {
+    background-color: white;
+    color: black;
 }
 menu {
-  display: block;
+  display: none;
+
+  
 }
 menu > ul {
     list-style-type: none;
+
 }
 menu > ul > li > a {
     display: block;
